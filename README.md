@@ -13,6 +13,7 @@ An interactive Streamlit site for analyzing university student mental health pat
 ## 🗂️ Project Structure
 
 student-mental-health-dashboard/
+
 ├── app.py # Streamlit app
 
 ├── data_prep.py # Data preprocessing
