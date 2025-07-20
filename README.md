@@ -13,13 +13,12 @@ An interactive Streamlit site for analyzing university student mental health pat
 ## 🗂️ Project Structure
 
 student-mental-health-dashboard/
-│
-├── app.py                        # Main Streamlit application
-├── data_prep.py                  # Data loading and preprocessing functions
-├── viz.py                        # Visualization functions (matplotlib, seaborn, plotly)
-├── mining.py                     # Data mining (Apriori algorithm, K-Means clustering)
-├── requirements.txt              # Python package dependencies
-├── Student-Mental-health.csv     # Dataset file
-└── README.md                     # Project documentation
+├── app.py # Streamlit app
+├── data_prep.py # Data preprocessing
+├── viz.py # Visualizations
+├── mining.py # Apriori & K-Means
+├── requirements.txt # Dependencies
+├── Student-Mental-health.csv
+└── README.md
 
 
