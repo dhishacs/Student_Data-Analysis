@@ -14,11 +14,17 @@ An interactive Streamlit site for analyzing university student mental health pat
 
 student-mental-health-dashboard/
 ├── app.py # Streamlit app
+
 ├── data_prep.py # Data preprocessing
+
 ├── viz.py # Visualizations
+
 ├── mining.py # Apriori & K-Means
+
 ├── requirements.txt # Dependencies
+
 ├── Student-Mental-health.csv
+
 └── README.md
 
 
